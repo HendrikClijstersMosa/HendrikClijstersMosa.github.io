@@ -17,7 +17,7 @@ https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages
 Getting started met Bootstrap-5?
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-## Referenties
+# Referenties
 
 Pagina gebaseerd op Bootstrap-5 crash course van Traversy Media:
 https://www.youtube.com/watch?v=4sosXZsdy-s
