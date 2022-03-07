@@ -1,27 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
-      crossorigin="anonymous"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"
-    />
-    <link
-      href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="style.css" />
-    <title>Frontend Bootcamp</title>
-  </head>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+        crossorigin="anonymous"/>
+        <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"/>
+        <link
+        href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css"
+        rel="stylesheet"/>
+        <link rel="stylesheet" href="style.css" />
+        <title>Frontend Bootcamp</title>
+    </head>
+    <!-- Navbar -->
     <body>
+        <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
+            <div class="container">
+                <a href="#" class="navbar-brand">Bootcamp</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navmenu">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a href="#learn" class="nav-link">What you'll learn</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#questions" class="nav-link">Questions</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#instructors" class="nav-link">Instructors</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
         <!-- navbar -->
         <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
             <div class="container">
@@ -74,12 +94,12 @@
                     <h3 class="mb-3 mb-md-0">Sign up for our Newsletter!</h3>
                     <div class="input-group">
                         <input class="form-control news-input" 
-                         type="text"
-                         placeholder="Enter Email!">
+                            type="text"
+                            placeholder="Enter Email!">
                         <button class="btn btn-dark btn-lg" type="button">
                             Send
                         </button>
-                      </div>
+                        </div>
                 </div>
             </div>
         </section>
@@ -189,57 +209,57 @@
                 <div class="accordion accordion-flush" id="questions">
                     <!-- Item 1 -->
                     <div class="accordion-item">
-                      <h2 class="accordion-header">
+                        <h2 class="accordion-header">
                         <button class="accordion-button collapsed" 
                         type="button" data-bs-toggle="collapse" 
                         data-bs-target="#question-one">
-                          Where exactly are you?
+                            Where exactly are you?
                         </button>
-                      </h2>
-                      <div id="question-one" class="accordion-collapse collapse" data-bs-parent="#questions">
+                        </h2>
+                        <div id="question-one" class="accordion-collapse collapse" data-bs-parent="#questions">
                         <div class="accordion-body"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil necessitatibus consectetur quibusdam error labore, rem facere cumque recusandae molestias perferendis fugiat, minus illo ipsum deserunt reprehenderit optio dolorem incidunt alias. Nostrum praesentium eveniet laborum sit et iure labore perspiciatis minima unde. Odio molestias, nihil quis architecto eveniet nobis illum doloribus.<code>.accordion-flush</code> class. This is the first item's accordion body.</div>
-                      </div>
+                        </div>
                     </div>
                     <!-- Item 2 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                          <button class="accordion-button collapsed" 
-                          type="button" data-bs-toggle="collapse" 
-                          data-bs-target="#question-two">
+                            <button class="accordion-button collapsed" 
+                            type="button" data-bs-toggle="collapse" 
+                            data-bs-target="#question-two">
                             How much does it cost to attend?
-                          </button>
+                            </button>
                         </h2>
                         <div id="question-two" class="accordion-collapse collapse" data-bs-parent="#questions">
-                          <div class="accordion-body"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil necessitatibus consectetur quibusdam error labore, rem facere cumque recusandae molestias perferendis fugiat, minus illo ipsum deserunt reprehenderit optio dolorem incidunt alias. Nostrum praesentium eveniet laborum sit et iure labore perspiciatis minima unde. Odio molestias, nihil quis architecto eveniet nobis illum doloribus.<code>.accordion-flush</code> class. This is the first item's accordion body.</div>
+                            <div class="accordion-body"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil necessitatibus consectetur quibusdam error labore, rem facere cumque recusandae molestias perferendis fugiat, minus illo ipsum deserunt reprehenderit optio dolorem incidunt alias. Nostrum praesentium eveniet laborum sit et iure labore perspiciatis minima unde. Odio molestias, nihil quis architecto eveniet nobis illum doloribus.<code>.accordion-flush</code> class. This is the first item's accordion body.</div>
                         </div>
-                      </div>
+                        </div>
                     <!-- Item 3 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                          <button class="accordion-button collapsed" 
-                          type="button" data-bs-toggle="collapse" 
-                          data-bs-target="#question-three">
+                            <button class="accordion-button collapsed" 
+                            type="button" data-bs-toggle="collapse" 
+                            data-bs-target="#question-three">
                             What do I need to know?
-                          </button>
+                            </button>
                         </h2>
                         <div id="question-three" class="accordion-collapse collapse" data-bs-parent="#questions">
-                          <div class="accordion-body"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil necessitatibus consectetur quibusdam error labore, rem facere cumque recusandae molestias perferendis fugiat, minus illo ipsum deserunt reprehenderit optio dolorem incidunt alias. Nostrum praesentium eveniet laborum sit et iure labore perspiciatis minima unde. Odio molestias, nihil quis architecto eveniet nobis illum doloribus.<code>.accordion-flush</code> class. This is the first item's accordion body.</div>
+                            <div class="accordion-body"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil necessitatibus consectetur quibusdam error labore, rem facere cumque recusandae molestias perferendis fugiat, minus illo ipsum deserunt reprehenderit optio dolorem incidunt alias. Nostrum praesentium eveniet laborum sit et iure labore perspiciatis minima unde. Odio molestias, nihil quis architecto eveniet nobis illum doloribus.<code>.accordion-flush</code> class. This is the first item's accordion body.</div>
                         </div>
-                      </div>
+                        </div>
                     <!-- Item 4 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                          <button class="accordion-button collapsed" 
-                          type="button" data-bs-toggle="collapse" 
-                          data-bs-target="#question-four">
+                            <button class="accordion-button collapsed" 
+                            type="button" data-bs-toggle="collapse" 
+                            data-bs-target="#question-four">
                             How do I sign up?
-                          </button>
+                            </button>
                         </h2>
                         <div id="question-four" class="accordion-collapse collapse" data-bs-parent="#questions">
-                          <div class="accordion-body"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil necessitatibus consectetur quibusdam error labore, rem facere cumque recusandae molestias perferendis fugiat, minus illo ipsum deserunt reprehenderit optio dolorem incidunt alias. Nostrum praesentium eveniet laborum sit et iure labore perspiciatis minima unde. Odio molestias, nihil quis architecto eveniet nobis illum doloribus.<code>.accordion-flush</code> class. This is the first item's accordion body.</div>
+                            <div class="accordion-body"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil necessitatibus consectetur quibusdam error labore, rem facere cumque recusandae molestias perferendis fugiat, minus illo ipsum deserunt reprehenderit optio dolorem incidunt alias. Nostrum praesentium eveniet laborum sit et iure labore perspiciatis minima unde. Odio molestias, nihil quis architecto eveniet nobis illum doloribus.<code>.accordion-flush</code> class. This is the first item's accordion body.</div>
                         </div>
-                      </div>
-                  </div>
+                        </div>
+                    </div>
             </div>
         </section>
 
@@ -356,10 +376,10 @@
         <!-- Modal -->
         <div class="modal fade" id="enroll" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
-              <div class="modal-content">
+                <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <p class="lead">Fill Out This Form and we will get back to you</p>
@@ -371,33 +391,31 @@
                         <div class="mb-3">
                             <label for="last-name" class="col-form-label">Last Name:</label>
                             <input type="text" class="form-control" id="last-name" />
-                          </div>
-                          <div class="mb-3">
+                            </div>
+                            <div class="mb-3">
                             <label for="email" class="col-form-label">Email:</label>
                             <input type="email" class="form-control" id="email" />
-                          </div>
-                          <div class="mb-3">
+                            </div>
+                            <div class="mb-3">
                             <label for="phone" class="col-form-label">Phone:</label>
                             <input type="tel" class="form-control" id="phone" />
-                          </div>
+                            </div>
                     </form>
                 </div>
                 <div class="modal-footer">
-                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                  <button type="button" class="btn btn-primary">Save changes</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
                 </div>
-              </div>
+                </div>
             </div>
         </div>
-          
+            
 
         <script
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
         crossorigin="anonymous"
-      ></script>
-      <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+        ></script>
+        <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
     </body>
-
-</head>
 </html>
