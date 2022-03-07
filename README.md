@@ -1,5 +1,4 @@
-### Bezoek deze site
-https://hendrikclijstersmosa.github.io/
+### Bezoek deze site: https://hendrikclijstersmosa.github.io/
 
 # Hoe een GitHub Page aanmaken?
 
