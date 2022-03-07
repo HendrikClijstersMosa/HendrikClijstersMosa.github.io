@@ -17,6 +17,10 @@ https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages
 Getting started met Bootstrap-5?
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
+Snippets en Custom componenten in Bootstrap-5 (Snippets gebruiken custom css)? 
+https://getbootstrap.com/docs/5.0/examples/
+
+
 # Referenties
 
 Pagina gebaseerd op Bootstrap-5 crash course van Traversy Media:
