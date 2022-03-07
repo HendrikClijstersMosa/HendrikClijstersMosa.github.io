@@ -1,7 +1,5 @@
 Hoe een site op github - pages zetten?
-https://pages.github.com/
-
-!Let op: Kies voor "User or Organization site"!
+https://pages.github.com/ (Let op: Kies voor "User or Organization site")
 
 
 Liever stap per stap uitleg? 
