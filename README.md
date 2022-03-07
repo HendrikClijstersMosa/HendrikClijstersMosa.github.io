@@ -23,9 +23,11 @@ https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
 Snippets en Custom componenten in Bootstrap-5 (Snippets gebruiken custom css)? 
 https://getbootstrap.com/docs/5.0/examples/
 
+<pre>
 Icons gebruiken in je website? 
 - Bootstrap Icons: https://icons.getbootstrap.com/         (CDN: https://www.bootstrapcdn.com/fontawesome/)
 - Font Awesome:    https://fontawesome.com/icons/00?s=thin (CDN: https://www.bootstrapcdn.com/bootstrapicons/)
+</pre>
 
 Geen idee waar te beginnen? Neem een Crash Course! 
 https://www.youtube.com/watch?v=c9B4TPnak1A
