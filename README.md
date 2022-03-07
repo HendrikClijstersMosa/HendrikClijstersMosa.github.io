@@ -1,3 +1,6 @@
+### Bezoek deze site
+https://hendrikclijstersmosa.github.io/
+
 # Hoe een GitHub Page aanmaken?
 
 Hoe een site op GitHub Pages zetten (Kies voor "User or Organization site")?
