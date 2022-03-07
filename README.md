@@ -23,7 +23,14 @@ https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
 Snippets en Custom componenten in Bootstrap-5 (Snippets gebruiken custom css)? 
 https://getbootstrap.com/docs/5.0/examples/
 
-Geen idee waar te beginnen? Neem een Crash Course! https://www.youtube.com/watch?v=c9B4TPnak1A
+Geen idee waar te beginnen? Neem een Crash Course! 
+https://www.youtube.com/watch?v=c9B4TPnak1A
+
+# VS Code
+
+Website testen in VS code? Gebruik de "Live Server" extensie!
+https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/
+
 
 # Referenties
 
