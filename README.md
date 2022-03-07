@@ -1,11 +1,14 @@
-Hoe een site op github - pages zetten?
-https://pages.github.com/ (Let op: Kies voor "User or Organization site")
+Hoe een site op GitHub Pages zetten (Kies voor "User or Organization site")?
+https://pages.github.com/ 
 
 
-Liever stap per stap uitleg? 
+Liever stap per stap uitleg (voorbeeld gebruikt html en css)? 
 http://jmcglone.com/guides/github-pages/
-(Voorbeeld op deze tutorial gaat niet uit van Bootstrap)
 
+
+Liever stap per stap uitleg (voorbeeld gebruikt Bootstrap)?
+https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages
+!Stap 2: Gebruik VS Code IPV GitHub Desktop!
 
 Pagina gebaseerd op Bootstrap crash course van Traversy Media:
 https://www.youtube.com/watch?v=4sosXZsdy-s
