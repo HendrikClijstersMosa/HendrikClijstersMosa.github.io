@@ -3,6 +3,7 @@ https://pages.github.com/
 
 !Let op: Kies voor "User or Organization site"!
 
+
 Liever stap per stap uitleg? 
 http://jmcglone.com/guides/github-pages/
 (Voorbeeld op deze tutorial gaat niet uit van Bootstrap)
