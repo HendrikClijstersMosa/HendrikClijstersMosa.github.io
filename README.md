@@ -8,6 +8,9 @@
 Getting started met Bootstrap-5?
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
+Tutorial over Bootstrap-5 met extra uitleg nodig?
+https://www.w3schools.com/bootstrap5/index.php
+
 Cheat Sheat voor Bootstrap-5 nodig?
 https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
 
