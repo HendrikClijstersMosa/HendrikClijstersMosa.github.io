@@ -1,5 +1,5 @@
 ### Bezoek deze site: https://hendrikclijstersmosa.github.io/
-### Nieuwe koppelpagina voor blogs en website: mosa-gip-koppelpagina.netlify.app
+### Nieuwe koppelpagina voor blogs en website: https://mosa-gip-koppelpagina.netlify.app/
 (Stuur mij de link van jullie blog/website door en ik zal ze linken)
 
 
