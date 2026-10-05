@@ -1,4 +1,7 @@
-### Bezoek deze site: https://hendrikclijstersmosa.github.io/
+# Bezoek deze site: 
+### https://hendrikclijstersmosa.github.io/
+De code voor deze website is volledig te vinden in het bestand index.html.
+Bootstrap is een framework dat automatisch CSS-styling en JS-code toevoegd aan HTML-bestanden.
 
 # Bootstrap
 
