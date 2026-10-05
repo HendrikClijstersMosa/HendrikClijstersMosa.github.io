@@ -5,24 +5,25 @@
 
 # Bootstrap
 
-Getting started met Bootstrap-5?
+Bootstrap-5 officiële website, how to get started en overige documentatie
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-Tutorial over Bootstrap-5 met extra uitleg nodig?
-https://www.w3schools.com/bootstrap5/index.php
+Bootstrap-5 in een korte video
+https://www.youtube.com/watch?v=eow125xV5-c
 
-Cheat Sheat voor Bootstrap-5 nodig?
+Bootstrap-5 in een lange video
+https://www.youtube.com/watch?v=c9B4TPnak1A
+
+Cheat Sheat voor Bootstrap-5
 https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
 
-Snippets en Custom componenten in Bootstrap-5 (Snippets gebruiken custom css)? 
+Bootstrap-5 snippets en custom componenten
 https://getbootstrap.com/docs/5.0/examples/
 
-Icons gebruiken in je website? 
-- Bootstrap Icons: https://icons.getbootstrap.com/         (CDN: https://www.bootstrapcdn.com/bootstrapicons/)
-- FA Icons:    https://fontawesome.com/icons/00?s=thin (CDN: https://www.bootstrapcdn.com/fontawesome/)
+Bootstrap-5 iconen toevoegen
+https://icons.getbootstrap.com/        
 
-Geen idee waar te beginnen? Neem een Crash Course! 
-https://www.youtube.com/watch?v=c9B4TPnak1A
+
 
 
 # Hoe een GitHub Page aanmaken?
