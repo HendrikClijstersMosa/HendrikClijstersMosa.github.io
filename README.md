@@ -1,10 +1,9 @@
-# Bezoek deze site: 
+# Bezoek deze site
 ### https://hendrikclijstersmosa.github.io/
 De code voor deze website is volledig te vinden in het bestand index.html.
 Bootstrap is een framework dat automatisch CSS-styling en JS-code toevoegd aan HTML-bestanden.
 
 # Bootstrap
-
 Bootstrap-5 officiële website, how to get started en overige documentatie
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
@@ -27,7 +26,6 @@ https://icons.getbootstrap.com/
 
 
 # Hoe een GitHub Page aanmaken?
-
 Hoe een site op GitHub Pages zetten (Kies voor "User or Organization site")?
 https://pages.github.com/ 
 
@@ -41,12 +39,10 @@ https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages
 !Stap 2: Gebruik VS Code IPV GitHub Desktop!
 
 # VS Code
-
 Website testen in VS code? Gebruik de "Live Server" extensie!
 https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/
 
 
 # Referenties
-
-Pagina gebaseerd op Bootstrap-5 tutorial van Traversy Media:
+Website gebaseerd op Bootstrap-5 tutorial van Traversy Media:
 https://www.youtube.com/watch?v=4sosXZsdy-s
