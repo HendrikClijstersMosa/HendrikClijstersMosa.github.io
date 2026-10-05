@@ -1,7 +1,4 @@
 ### Bezoek deze site: https://hendrikclijstersmosa.github.io/
-### Nieuwe koppelpagina voor blogs en website: https://mosa-vop-koppelpagina.netlify.app/
-(Stuur mij de link van jullie blog/website door en ik zal ze linken)
-
 
 # Bootstrap
 
